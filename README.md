@@ -1,2 +1,3 @@
 # Kggle-Rental
-#Data-Mining
+## Data-Mining
+This is the home work of Data Mining course.
